@@ -1,16 +1,26 @@
-### Hi there 👋
+# [TIago Scorticati]
+## Student in systems | AI enthusiast |
 
-<!--
-**TiagoScorticati/TiagoScorticati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Tiago Scorticati and I am a great fan of Artificial Intelligence and Programming, my objective is start working and develop my skills.
 
-Here are some ideas to get you started:
+### About what i Use
+- Poragramming languages: [Pascal,Python,JavaScript]
+- Frameworks [React,Tensorflow]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- **[CAECE]**
+  - I am studying the first year of a bachelor's degree in systems, although I consider myself a self-taught person who is constantly looking for ways to continue learning and improving
+
+### Languages
+- [Español] - [Native]
+- [English] - [Advanced english student]
+
+### Contact me
+- [ScorticatiTiago@gmail.com]
+- [WhatsApp: 2233122171]
+- [Instagram:Tiago.Scorticati]
+
+### Interest
+I have been passionate about programming and artificial intelligence since I was little, and I want to be able to share my ideas with the world.
+
+Thank you for visiting my GitHub profile, if you have any question, do not hesitate to contact me
